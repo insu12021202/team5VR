@@ -1,2 +1,0 @@
-# Camping Simulator
-VR App
